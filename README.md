@@ -9,7 +9,7 @@
     - Python Django, Dockerizing, Container 관련 기술들 습득하여, MSA 개발 기술을 심화할 수 있다.
     - 세부 MSA 기술을 클라우드 기반 CI/CD 에 적용하여 형상관리/빌드/배포 자동화 기술을 습득할 수 있다.
 4. 교재
-   - 참고도서 교재명 : 파이썬으로 하는 데브옵 http://www.yes24.com/Product/Goods/102181721
+   - 참고도서 교재명 : 파이썬으로 하는 데브옵스 http://www.yes24.com/Product/Goods/102181721
    - 참고도서 출판사 : 에이콘 출판사
    - 참고도서 저자 및 역자 : 노아 기프트, 케네디 베어먼, 알프레도 데자, 그릭 게오르규 저/전진우 역<br />
   ![참고도서](https://image.aladin.co.kr/product/27331/19/cover500/k612732320_1.jpg)
