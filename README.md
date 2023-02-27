@@ -19,7 +19,7 @@
     - Attendance : 25%
     - Midterm Examination : 25%
     - Final Examination : 35%
-7. Prerequisites : <em>Python Programming Experience</em>
+7. Prerequisites : <em><strong>Python Programming Experience</strong></em>
 8. 커리큘럼
 
 |주차 | Agenda | 과제물
