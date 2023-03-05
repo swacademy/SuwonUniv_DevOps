@@ -1,5 +1,5 @@
 # SuwonUniv_DevOps
-수원대학교 2023년도 1학기 클라우드 기반 DevOps 자동화
+### 수원대학교 2023년도 1학기 클라우드 기반 DevOps 자동화
 
 1. Lecture Method : 강의식(이론) & 실습
 2. Course Description
